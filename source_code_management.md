@@ -1,4 +1,6 @@
 # Recommendations: ePIC Source Code Management
+Versions:
+- 1.0; [source as approved](https://docs.google.com/document/d/1pM2R6TnegUMKxdODPKLVQLcIogozdWXcPv1--2IIyEU/edit?usp=sharing)
 
 This set of recommendations follows [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) definitions for must, should, and may.
 
