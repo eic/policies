@@ -1,5 +1,6 @@
 # ePIC Simulation Production Strategy
-Source: [https://docs.google.com/document/d/16PWnAVpR9qhymDkzAmmEnmzhswJy9SB0s0C7fW89-Lo/edit]
+Versions:
+- 1.0; [source as approved](https://docs.google.com/document/d/16PWnAVpR9qhymDkzAmmEnmzhswJy9SB0s0C7fW89-Lo/edit)
 
 ## Objectives
 
