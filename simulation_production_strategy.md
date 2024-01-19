@@ -1,3 +1,11 @@
+---
+title: ePIC Simulation Production Strategy
+name: simulation_production_strategy
+layout: default
+---
+
+{% include layouts/title.md %}
+
 # ePIC Simulation Production Strategy
 Versions:
 - 1.0; [source as approved](https://docs.google.com/document/d/16PWnAVpR9qhymDkzAmmEnmzhswJy9SB0s0C7fW89-Lo/edit)
