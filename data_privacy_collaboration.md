@@ -1,5 +1,5 @@
 ---
-title: Collaborating Online: Data Privacy and Security
+title: Collaborating Online - Data Privacy and Security
 name: data_privacy_collaboration
 layout: default
 ---
